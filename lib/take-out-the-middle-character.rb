@@ -1,4 +1,5 @@
 # https://www.codewars.com/kata/56747fd5cb988479af000028
+# sort le caractère dun milieu d'un string donné
 def get_middle(str)
     return false if !str.is_a?(String)
 

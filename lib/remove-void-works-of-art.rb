@@ -1,4 +1,5 @@
 # https://www.codewars.com/kata/563cf89eb4747c5fb100001b
+# retire d'une liste, les oeuvres les moins bien notées
 def remove_smallest(numbers)
     #throw NotImplementedError.new "TODO: remove_smallest"
     i = 0

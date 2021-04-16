@@ -1,4 +1,5 @@
 # https://www.codewars.com/kata/54ff3102c1bad923760001f3
+# compte le nombre de voyelles d'un string
 def get_count(input_str)
     inputStr = input_str.downcase
     vowelsList = ['a', 'e', 'i', 'o', 'u']
